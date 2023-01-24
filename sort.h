@@ -40,5 +40,4 @@ listint_t *get_dlistint_lelem(listint_t *h);
 int getCantRep(int num);
 void heap_sort(int *array, size_t size);
 
-
 #endif
